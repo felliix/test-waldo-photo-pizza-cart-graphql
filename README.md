@@ -1,1 +1,6 @@
-# waldo-photo-pizza-cart-graphql
+# waldo-pizza-test
+
+npm install
+
+
+npm start
